@@ -19,7 +19,7 @@
      passions also lie in technology. Finding an intersection between the two has been a goal of mine, so feel free to contact me if you are interested in starting something like 
      this!
 
-     As described above, I am also really interested in data, and using it to derive interesting patterns and conclusion, and making it accessible. I love playing around with AI 
+     As described above, I am also really interested in data, and using it to derive interesting patterns and conclusions, and making it accessible. I love playing around with AI 
      techniques and want to be able to implement algorithms towards a larger project as well.
 
 - 📫 How to reach me: 
