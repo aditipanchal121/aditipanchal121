@@ -24,6 +24,6 @@
 
 - 📫 How to reach me: 
      - LinkedIn: https://www.linkedin.com/in/aditipanchal
-     - Email: mailto:aditipanchal121@gmail.com
+     - Email: aditipanchal121@gmail.com
 
 
