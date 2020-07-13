@@ -13,7 +13,7 @@
      learning algorithms, as well as deep learning neural networks for fun scenarios such as generating Shakespeare-esque plays and predicting car purchase amounts based on  
      customer demographics. 
      
-     I am also learning React, Redux and GraphQL to build a highly functional eCommerce application, to gain experience using these technologies on larger projects.
+     I am also learning React, Redux and GraphQL to build a fully functional eCommerce application, to gain experience using these technologies on larger projects.
      
 - 👯 I’m looking to collaborate on projects built for social good. I have always wanted to do something that directly benefits the lives of others in a meaningful way, but my 
      passions also lie in technology. Finding an intersection between the two has been a goal of mine, so feel free to contact me if you are interested in starting something like 
