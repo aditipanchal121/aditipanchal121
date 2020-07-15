@@ -7,7 +7,7 @@
 - 😄 Pronouns: she/her
 
 - 🔭 I’m currently interning at Capital One as a Software Engineer. I am using AWS Lambda and S3 to create a CSV file validation service, that can bulk upload information to a 
-     database for the internal application my team is developing. I also worked with DevOps features such as the company pipeline software and lockbox integrations to help        
+     database for the internal application my team is developing. I also worked with DevOps features such as the company pipeline software and lockbox integrations to help      
      implement security and facilitate continuous development and integration. 
 
 - 🌱 On my own time, I am also learning TensorFlow, and have been learning the theory and implementation behind Artificial Intelligence. So far, I have developed several machine 
