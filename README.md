@@ -3,7 +3,7 @@
 <!--
 **aditipanchal121/aditipanchal121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://github.com/aditipanchal121/aditipanchal121/blob/master/Dino_non-birthday_version.gif">
+<a align='center' href="https://github.com/aditipanchal121/aditipanchal121/blob/master/Dino_non-birthday_version.gif">
     <img src="https://github.com/aditipanchal121/aditipanchal121/blob/master/Dino_non-birthday_version.gif" alt="Now Playing">
 </a>
 
