@@ -4,7 +4,7 @@
 **aditipanchal121/aditipanchal121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Welcome!] (Dino_non-birthday_version.gif)
+![Welcome!] (https://github.com/aditipanchal121/aditipanchal121/blob/master/Dino_non-birthday_version.gif)
 
 - 😄 Pronouns: she/her
 
