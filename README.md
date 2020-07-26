@@ -4,6 +4,8 @@
 **aditipanchal121/aditipanchal121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![Welcome!] (Dino_non-birthday_version.gif)
+
 - 😄 Pronouns: she/her
 
 - 🔭 I’m currently interning at Capital One as a Software Engineer. I am using AWS Lambda and S3 to create a CSV file validation service, that can bulk upload information to a 
