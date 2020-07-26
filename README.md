@@ -3,8 +3,9 @@
 <!--
 **aditipanchal121/aditipanchal121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-![Welcome!] (https://github.com/aditipanchal121/aditipanchal121/blob/master/Dino_non-birthday_version.gif)
+<a href="https://github.com/aditipanchal121/aditipanchal121/blob/master/Dino_non-birthday_version.gif">
+    <img src="https://github.com/aditipanchal121/aditipanchal121/blob/master/Dino_non-birthday_version.gif" alt="Now Playing">
+</a>
 
 - 😄 Pronouns: she/her
 
