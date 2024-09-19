@@ -15,13 +15,10 @@
      I focused on. I worked with C# and Selenium to develop complex algorithms to be able to compress hundreds of manual tests into single, adaptable workflows.
 
 - 🔭 In summer of 2020, I interned at Capital One as a Software Engineer. I used AWS Lambda and S3 to create a CSV file validation service, that can bulk upload information to a 
-     database for the internal application my team is developing. I also worked with DevOps features such as the company pipeline software and lockbox integrations to help implement security and facilitate CI/CD. 
-
-- 🌱 On my own time, I am also learning TensorFlow, and have been learning the theory and implementation behind Artificial Intelligence. So far, I have developed several machine 
-     learning algorithms, as well as deep learning neural networks for fun scenarios such as generating Shakespeare-esque plays and predicting car purchase amounts based on  customer demographics. 
+     database for the internal application my team is developing. I also worked with DevOps features such as the company pipeline software and lockbox integrations to help implement security and facilitate CI/CD.
      
-- 👯 I want to collaborate on projects that contribute towards social good! I have always wanted to do something that directly benefits the lives of others in a meaningful way, and my 
-     I am passionate about psychology, as well as machine learning, so I enjoy working on projects that intersect these topics. Feel free to contact me if you are interested in starting something like this!
+- 👯 I want to collaborate on projects that contribute towards social good! I have always wanted to do something that directly benefits the lives of others in a meaningful way, and
+     I am passionate about psychology, as well as AI/ML, so I enjoy working on projects that intersect these topics. Feel free to contact me if you are interested in starting something like this!
 
 - 📫 How to reach me: 
      - LinkedIn: https://www.linkedin.com/in/aditipanchal
