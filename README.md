@@ -20,13 +20,8 @@
 - 🌱 On my own time, I am also learning TensorFlow, and have been learning the theory and implementation behind Artificial Intelligence. So far, I have developed several machine 
      learning algorithms, as well as deep learning neural networks for fun scenarios such as generating Shakespeare-esque plays and predicting car purchase amounts based on  customer demographics. 
      
-     I am also learning React, Redux and GraphQL to build a fully functional eCommerce application, to gain experience using these technologies on larger projects.
-     
-- 👯 I want to collaborate on projects built for social good! I have always wanted to do something that directly benefits the lives of others in a meaningful way, and my 
-     passions also lie in technology, so finding an intersection between the two has always been a goal of mine. Feel free to contact me if you are interested in starting something like this!
-
-     As mentioned, I am also really interested in data, using it to derive interesting patterns and conclusions, and making it accessible to all. I love playing around with AI techniques and want to be able to implement
-     algorithms towards larger projects as well.
+- 👯 I want to collaborate on projects that contribute towards social good! I have always wanted to do something that directly benefits the lives of others in a meaningful way, and my 
+     I am passionate about psychology, as well as machine learning, so I enjoy working on projects that intersect these topics. Feel free to contact me if you are interested in starting something like this!
 
 - 📫 How to reach me: 
      - LinkedIn: https://www.linkedin.com/in/aditipanchal
