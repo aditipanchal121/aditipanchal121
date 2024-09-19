@@ -9,6 +9,8 @@
 
 - 😄 Pronouns: she/her
 
+- 👩🏾‍💻 Currently, I am working as an Applied Scientist at Microsoft, building evaluation metrics for Copilot. I am also working towards my MSCS, with a specialization in Machine Learning, at Georgia Tech.
+
 - 🚀 For summer of 2021, I interned at Microsoft in Cloud and AI, working on writing automated tests for the Quote Center UI of Microsoft Partner Center, thereby reducing testing time by over 85% for the features
      I focused on. I worked with C# and Selenium to develop complex algorithms to be able to compress hundreds of manual tests into single, adaptable workflows.
 
