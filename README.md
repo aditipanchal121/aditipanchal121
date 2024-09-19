@@ -11,10 +11,10 @@
 
 - 👩🏾‍💻 Currently, I am working as an Applied Scientist at Microsoft, building evaluation metrics for Copilot. I am also working towards my MSCS, with a specialization in Machine Learning, at Georgia Tech.
 
-- 🚀 For summer of 2021, I interned at Microsoft in Cloud and AI, working on writing automated tests for the Quote Center UI of Microsoft Partner Center, thereby reducing testing time by over 85% for the features
+- 🚀 During summer of 2021, I interned at Microsoft in Cloud and AI, working on writing automated tests for the Quote Center UI of Microsoft Partner Center, thereby reducing testing time by over 85% for the features
      I focused on. I worked with C# and Selenium to develop complex algorithms to be able to compress hundreds of manual tests into single, adaptable workflows.
 
-- 🔭 I interned summer of 2020 at Capital One as a Software Engineer. I used AWS Lambda and S3 to create a CSV file validation service, that can bulk upload information to a 
+- 🔭 In summer of 2020, I interned at Capital One as a Software Engineer. I used AWS Lambda and S3 to create a CSV file validation service, that can bulk upload information to a 
      database for the internal application my team is developing. I also worked with DevOps features such as the company pipeline software and lockbox integrations to help implement security and facilitate CI/CD. 
 
 - 🌱 On my own time, I am also learning TensorFlow, and have been learning the theory and implementation behind Artificial Intelligence. So far, I have developed several machine 
